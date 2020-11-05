@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/11/05 10:57:34.386,=C:\Users\USR192\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/05 10:58:47.066,D:\11. DELPHI PROJECT\LoginDelphi\uLoginForm.pas=C:\Users\USR192\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/05 10:58:47.066,D:\11. DELPHI PROJECT\LoginDelphi\uLoginForm.dfm=C:\Users\USR192\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/11/05 10:58:54.476,=C:\Users\USR192\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/11/05 10:59:23.637,D:\11. DELPHI PROJECT\LoginDelphi\uMainForm.dfm=C:\Users\USR192\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2020/11/05 10:59:23.637,D:\11. DELPHI PROJECT\LoginDelphi\uMainForm.pas=C:\Users\USR192\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/11/05 11:01:13.792,D:\11. DELPHI PROJECT\LoginDelphi\PLoginForm.dproj=C:\Users\USR192\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/11/05 11:44:51.852,=D:\11. DELPHI PROJECT\LoginDelphi\Unit1.pas</Transaction>
+    <Transaction>2020/11/05 11:45:05.329,D:\11. DELPHI PROJECT\LoginDelphi\uModule.dfm=D:\11. DELPHI PROJECT\LoginDelphi\Unit1.dfm</Transaction>
+    <Transaction>2020/11/05 11:45:05.329,D:\11. DELPHI PROJECT\LoginDelphi\uModule.pas=D:\11. DELPHI PROJECT\LoginDelphi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
